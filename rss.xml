@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smily]]></title>
+        <description><![CDATA[Smily]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 15:55:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Smily, my website in Uganda</p>]]></description>
+            <link>undefinedwelcome-to-smily-my-website-in-uganda/index.html</link>
+            <guid isPermaLink="false">3f58270b-c819-446c-a459-abfbe7c98cb2</guid>
+            <pubDate>Thu, 05 May 2016 15:55:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
