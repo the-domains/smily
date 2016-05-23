@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Smily]]></title>
         <description><![CDATA[Smily]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/smily/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 15:55:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 15:57:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smily/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mes aventures</p>]]></description>
+            <link>https://thegrid.ai/smily/mes-aventures/index.html</link>
+            <guid isPermaLink="false">a86e6eec-8cd2-4bc8-80d2-b7edadd5de30</guid>
+            <pubDate>Mon, 23 May 2016 15:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Smily, my website in Uganda</p>]]></description>
-            <link>undefinedwelcome-to-smily-my-website-in-uganda/index.html</link>
+            <link>https://thegrid.ai/smily/welcome-to-smily-my-website-in-uganda/index.html</link>
             <guid isPermaLink="false">3f58270b-c819-446c-a459-abfbe7c98cb2</guid>
             <pubDate>Thu, 05 May 2016 15:55:26 GMT</pubDate>
         </item>
