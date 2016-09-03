@@ -4,7 +4,7 @@
         <description><![CDATA[Smily]]></description>
         <link>https://thegrid.ai/smily/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 05:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 05:48:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/smily/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f325ebbd-df28-4028-9155-118c2cb5df95.jpg</link>
             <guid isPermaLink="false">3f58270b-c819-446c-a459-abfbe7c98cb2</guid>
             <pubDate>Sun, 26 Jun 2016 23:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df1cbb89-9e3e-4ac9-9dde-d0eeefe13a44.jpg">]]></description>
+            <link>https://thegrid.ai/smily/mes-amis/index.html</link>
+            <guid isPermaLink="false">e4925e4b-cf2c-4b1a-bc93-48d1828e4f2c</guid>
+            <pubDate>Thu, 01 Sep 2016 05:48:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
