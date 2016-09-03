@@ -1,21 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Ma vie en Afrique
-datePublished: '2016-09-01T05:28:23.537Z'
-dateModified: '2016-09-01T05:28:22.252Z'
-title: ''
-author: []
+datePublished: '2016-09-01T05:30:36.765Z'
 sourcePath: _posts/2016-05-23-ma-vie-en-afrique.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-09-01T05:30:35.871Z'
+title: ''
+publisher: {}
+description: Ma vie en Afrique
+inLanguage: null
+inNav: true
 starred: false
 url: ma-vie-en-afrique/index.html
-_type: Article
+_type: WebPage
 
 ---
 Ma vie en Afrique
