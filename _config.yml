@@ -28,5 +28,8 @@ navigation:
   - name: Mes aventures
     id: a86e6eec-8cd2-4bc8-80d2-b7edadd5de30
     type: content
+  - name: Ma vie en Afrique
+    id: c2680a34-602f-4a33-8fd2-04b23c67280e
+    type: content
 favicon: null
 purpose: []
