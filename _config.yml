@@ -31,5 +31,8 @@ navigation:
   - name: Ma vie en Afrique
     id: c2680a34-602f-4a33-8fd2-04b23c67280e
     type: content
+  - name: A l'école
+    id: 2ea949b3-6cc7-4345-8ce9-3d97e7b35e3f
+    type: content
 favicon: null
 purpose: []
