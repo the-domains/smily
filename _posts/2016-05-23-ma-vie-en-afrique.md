@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Ma vie en Afrique
-datePublished: '2016-06-26T22:33:29.121Z'
-dateModified: '2016-06-26T22:32:39.613Z'
+datePublished: '2016-09-01T05:28:23.537Z'
+dateModified: '2016-09-01T05:28:22.252Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-23-ma-vie-en-afrique.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: ma-vie-en-afrique/index.html
 _type: Article
