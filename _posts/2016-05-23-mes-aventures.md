@@ -1,21 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Mes aventures
-datePublished: '2016-09-01T05:28:06.001Z'
-dateModified: '2016-09-01T05:28:04.408Z'
-title: ''
-author: []
+datePublished: '2016-09-01T05:30:06.828Z'
 sourcePath: _posts/2016-05-23-mes-aventures.md
+inFeed: false
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
+author: []
 via: {}
+dateModified: '2016-09-01T05:29:52.399Z'
+title: ''
+publisher: {}
+description: Mes aventures
+inLanguage: null
+inNav: true
 starred: false
 url: mes-aventures/index.html
-_type: Article
+_type: WebPage
 
 ---
 Mes aventures
