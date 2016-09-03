@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Mes aventures
-datePublished: '2016-06-26T22:31:25.363Z'
-dateModified: '2016-06-26T22:18:38.645Z'
+datePublished: '2016-09-01T05:28:06.001Z'
+dateModified: '2016-09-01T05:28:04.408Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-23-mes-aventures.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: mes-aventures/index.html
 _type: Article
